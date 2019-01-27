@@ -4,3 +4,9 @@ C:\Users\Mehdi Golzadeh\source\repos\testapp\testapp\obj\Debug\testapp.csprojRes
 C:\Users\Mehdi Golzadeh\source\repos\testapp\testapp\obj\Debug\testapp.csproj.CoreCompileInputs.cache
 C:\Users\Mehdi Golzadeh\source\repos\testapp\testapp\obj\Debug\testapp.exe
 C:\Users\Mehdi Golzadeh\source\repos\testapp\testapp\obj\Debug\testapp.pdb
+F:\GitTest\testapp\testapp\bin\Debug\testapp.exe
+F:\GitTest\testapp\testapp\bin\Debug\testapp.pdb
+F:\GitTest\testapp\testapp\obj\Debug\testapp.csprojResolveAssemblyReference.cache
+F:\GitTest\testapp\testapp\obj\Debug\testapp.csproj.CoreCompileInputs.cache
+F:\GitTest\testapp\testapp\obj\Debug\testapp.exe
+F:\GitTest\testapp\testapp\obj\Debug\testapp.pdb

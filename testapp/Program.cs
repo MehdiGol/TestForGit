@@ -9,7 +9,22 @@ namespace testapp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!!");
+            if (checkvalue(1))
+            {
+                Console.WriteLine("Hello world!!");
+            }
+        }
+
+        static bool checkvalue(int a)
+        {
+            if (a == 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
